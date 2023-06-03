@@ -1,0 +1,151 @@
+body {
+    margin: 0px;
+    color:rgb(235, 40, 46);
+    padding: 0px;
+    font-family: cursive;
+    background: url("https://c4.wallpaperflare.com/wallpaper/73/900/929/sports-fitness-asian-brunette-wallpaper-preview.jpg");
+    width: 100%;
+
+}
+
+
+.left {
+    /* border: 2px solid red; */
+    display: inline-block;
+    position: absolute;
+    left: 30px;
+    top: 2px;
+    margin: 2px;
+
+}
+
+
+.container {
+    display: inline-block;
+    border: 3px solid white;
+    border-radius: 30px;
+    background-color: transparent;
+    
+    padding: 4px;
+    margin-top: 70px;
+    margin-left: 30%;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.form input {
+
+    color: black;
+    font-size: larger;
+    margin: 10px auto;
+    text-align: center;
+    display: block;
+    width: 60%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.container button {
+    display: block;
+    width: 35%;
+    margin: 10px auto;
+    border-radius: 23px;
+
+}
+
+.left img {
+    width: 136px;
+}
+
+.left div {
+    text-align: center;
+    font-size: 20px;
+    text-decoration:solid underline;
+    color: chocolate;
+    position: relative;
+    top: 323px;
+}
+
+.centre {
+
+    /* border: 2px solid red; */
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+    font-size: larger;
+}
+
+.right {
+    /* border: 2px solid red; */
+    position: absolute;
+    right: 34px;
+    top: 20px;
+}
+
+.navbar li {
+    display: inline-block;
+    margin: 0px;
+    font: size 8px;
+
+
+}
+
+.navbar li a {
+    color: blanchedalmond;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.navbar li a:hover,
+.navbar li a.active {
+    text-decoration: underline;
+    color: yellow;
+}
+
+.btn {
+    cursor: pointer;
+    margin: 12px;
+    background-color: aqua;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 4px;
+    font-size: 20px;
+
+
+}
+
+.btn:hover {
+    color: yellow;
+    background-color: grey;
+
+}
+
+.raj {
+
+    position: relative;
+    /* left: 1130px; */
+    top: 0px;
+    margin: 0px;
+    font-size: larger;
+    margin-left: 75%;
+    margin-bottom: 5px;
+
+}
+
+.raj img {
+    border: 5px solid yellow;
+    width: 300px;
+    display: block;
+    
+}
+
+.raj a {
+    color: aqua;
+}
+
+.raj a:hover {
+    color: yellow;
+    
+}
